@@ -1,1 +1,0 @@
-/home/amoxe/Desktop/AppGrailApps/trading_journal/build/app/intermediates/cxx/RelWithDebInfo/661q3c2d/obj/x86_64

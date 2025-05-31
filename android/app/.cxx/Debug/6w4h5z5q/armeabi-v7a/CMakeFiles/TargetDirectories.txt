@@ -1,2 +1,0 @@
-/home/amoxe/Desktop/AppGrailApps/trading_journal/android/app/.cxx/Debug/6w4h5z5q/armeabi-v7a/CMakeFiles/edit_cache.dir
-/home/amoxe/Desktop/AppGrailApps/trading_journal/android/app/.cxx/Debug/6w4h5z5q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
