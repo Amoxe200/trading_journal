@@ -1,0 +1,2 @@
+/home/amoxe/Desktop/AppGrailApps/trading_journal/android/app/.cxx/Debug/6w4h5z5q/x86/CMakeFiles/edit_cache.dir
+/home/amoxe/Desktop/AppGrailApps/trading_journal/android/app/.cxx/Debug/6w4h5z5q/x86/CMakeFiles/rebuild_cache.dir
